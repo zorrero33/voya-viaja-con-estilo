@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /api/admin
+Disallow: /api/subscriptions/checkout
+
+Sitemap: https://voya-travel.vercel.app/sitemap.xml

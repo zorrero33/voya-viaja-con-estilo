@@ -1,0 +1,10 @@
+{
+  "name": "VOYA - Superapp Internacional de Viajes",
+  "description": "Descubre el mundo. Viaja más. Gasta menos. Plataforma de viajes todo en uno con buscador multimodal económico, IA trip planner, mapas y navegación, traductor universal, asistente 24/7, pasaporte digital, reservas y seguridad.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

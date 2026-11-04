@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 100" fill="none">
+  <!-- VOYA Brand Symbol -->
+  <g transform="translate(6, 4)">
+    <path d="M8 36 L46 49 L8 62 L26 49 Z" fill="#087BFF" />
+    <path d="M30 54 L54 94 L94 36 L84 30 L114 16 L102 48 L93 42 L55 96 L47 96 L22 54 Z" fill="#087BFF" />
+  </g>
+
+  <!-- Wordmark VOYA -->
+  <text x="142" y="60" fill="#FFFFFF" font-family="system-ui, -apple-system, 'SF Pro Display', 'Inter', sans-serif" font-weight="900" font-size="52" letter-spacing="0.08em">VOYA</text>
+  
+  <!-- Tagline -->
+  <text x="144" y="80" fill="#94A3B8" font-family="system-ui, -apple-system, 'SF Pro Text', 'Inter', sans-serif" font-weight="600" font-size="9.5" letter-spacing="0.16em">DISCOVER THE WORLD. TRAVEL MORE.</text>
+</svg>
